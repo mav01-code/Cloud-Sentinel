@@ -17,4 +17,8 @@ There are other, more specific signs of DDoS attack that can vary depending on t
 3. The attackers can flood the website directly or via other nodes (DDoS).
 4. The attacker can also sabotage the link between a client and webserver.
 5. The attack can come from outside or from within the cloud infrastructure.
-A solution needs to be built by suitably designing the cloud architecture and developing some tool (s) to automatically detect and recover from the DDoS attack. Expected Solution: A set of developed tool(s) along with a suitable Cloud architecture to be demonstrated. The demonstrated website should be protected well against different types of DDoS attack. In case of an attack, the developed security tools should be able to automatically detect and protect a website hosted on cloud infrastructure against DDoS attacks. The solution should also demonstrate the automatic recovery from the attack. As high availability is an essential feature, the down time (recovery time) should be minimized to the extent possible.
+
+A solution needs to be built by suitably designing the cloud architecture and developing some tool (s) to automatically detect and recover from the DDoS attack. 
+
+## Expected Solution 
+A set of developed tool(s) along with a suitable Cloud architecture to be demonstrated. The demonstrated website should be protected well against different types of DDoS attack. In case of an attack, the developed security tools should be able to automatically detect and protect a website hosted on cloud infrastructure against DDoS attacks. The solution should also demonstrate the automatic recovery from the attack. As high availability is an essential feature, the down time (recovery time) should be minimized to the extent possible.
